@@ -1,6 +1,6 @@
 # Project Description
 
-This project is to view some of my favortire ** movies ** and their trailers combined together!
+This project is to view some of my favortire **movies** and their trailers combined together!
 
 ## Instructions
 
