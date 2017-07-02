@@ -1,7 +1,10 @@
-# MovieTrailerProj
-This project is the first one in Full Stack Developer Nanodegree courses
+# Project Description
 
-#Project Language : Python
+This project is to view some of my favortire ** movies ** and their trailers combined together!
 
-What it should do?
-It would generate a  html page with list of movies with their trailers and storyline.
+## Instructions
+
+* Install Python
+* from the shell/Terminal go to the directory of the project
+* run ** " python entertainment_center.py " **
+* Enjoy the trailers!
