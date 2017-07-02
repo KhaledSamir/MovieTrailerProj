@@ -6,5 +6,5 @@ This project is to view some of my favortire **movies** and their trailers combi
 
 * Install Python
 * from the shell/Terminal go to the directory of the project
-* run ** " python entertainment_center.py " **
+* run **" python entertainment_center.py "**
 * Enjoy the trailers!
